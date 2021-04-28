@@ -8,4 +8,5 @@ Light Connect ou LC é conhecida por criar diversos projetos em plataformas como
 
 # Sumário
 [Diretrizes Moon Helper]()
+
 [Diretrizes Twitch Clips]()
